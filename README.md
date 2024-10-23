@@ -1,6 +1,5 @@
 Flutter Multi-Screen UI Application
 
-Overview
 This is a multi-screen mobile application built using Flutter. It demonstrates essential Flutter concepts like navigation, event handling, and state management, along with the usage of basic widgets like ListView.builder and GridView.builder. The app consists of four screens, including a Home screen, Category Details screen, Add New Item screen, and Profile screen.
 
 Features
